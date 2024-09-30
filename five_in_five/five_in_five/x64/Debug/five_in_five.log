@@ -1,0 +1,4 @@
+﻿  main.cpp
+Y:\Code\c_language\five_in_five\main.cpp(22,9): warning C4101: “j”: 未引用的局部变量
+Y:\Code\c_language\five_in_five\main.cpp(246,1): warning C4715: “test_over”: 不是所有的控件路径都返回值
+  five_in_five.vcxproj -> Y:\Code\c_language\five_in_five\x64\Debug\five_in_five.exe
